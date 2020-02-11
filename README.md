@@ -1,6 +1,6 @@
 # README
 
-A basic search tree program to solve a interesting coding challenges. 
+A basic search tree program to solve an interesting coding challenge. 
 
 ## Problem:
 You are given a set of two-dimensional rectangular boxes on a two-dimensional Cartesian plane with the
