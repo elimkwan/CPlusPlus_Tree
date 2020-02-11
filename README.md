@@ -1,8 +1,8 @@
 # README
 
-A basic search tree program to solve an interesting coding challenges. 
+A basic search tree program to solve a interesting coding challenges. 
 
-Problem:
+## Problem:
 You are given a set of two-dimensional rectangular boxes on a two-dimensional Cartesian plane with the
 following assumptions and constraints:
 - All boxes are axis-aligned, i.e. each box can be defined in terms of the Cartesian coordinates of its minimum corner {a, b} and its maximum corner {c, d} such that a < c and b < d.
@@ -12,7 +12,19 @@ following assumptions and constraints:
 
 The task is to read the definition of the rectangles from standard input formatted as defined below, and output the number of regions classified as land to standard output.
 
-Solution:
+## Input Format:
+Some sample data is provided below for you to use when testing your solution. The first line contains an
+integer N denoting the number of boxes. The next N lines contain the four floating point values a, b, c, d
+that define Cartesian coordinates of the minimum corner and maximum corner of each box separated by a
+single space.
+```
+<N>
+a1 b1 c1 d1
+...
+aN bN cN dN
+```
+
+## Solution:
 - The underlying principle is to arrange all the rectangles into a search tree data format and tree nodes on even layers are "land".
 
 ## To run the program:
