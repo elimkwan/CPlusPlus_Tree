@@ -25,7 +25,8 @@ aN bN cN dN
 ```
 
 ## Solution:
-- The underlying principle is to arrange all the rectangles into a search tree data format and tree nodes on even layers are "land".
+
+Arrange all the rectangles into a search tree data format and tree nodes on even layers are "land".
 
 ## To run the program:
 
