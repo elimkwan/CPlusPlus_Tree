@@ -1,8 +1,8 @@
 # README
 
-A basic search tree program to solve an interesting coding challenge. 
+A basic search tree program to solve an interesting coding challenge - "Land and Sea". 
 
-## Problem:
+## Problem - Land and Sea:
 You are given a set of two-dimensional rectangular boxes on a two-dimensional Cartesian plane with the
 following assumptions and constraints:
 - All boxes are axis-aligned, i.e. each box can be defined in terms of the Cartesian coordinates of its minimum corner {a, b} and its maximum corner {c, d} such that a < c and b < d.
